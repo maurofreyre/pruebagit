@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #dbbef7;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+.letraTitulo{
+    color:blueviolet;
+    font-family: 'Satisfy', cursive;
+}
+.tabla{
+    width: 400px;
+    margin:30px;
+}
+.perfil{
+    width: 70px;
+    border-radius: 50%;
+}
+.fondo{
+    background-color: blueviolet;
+}
+.footer{
+    margin:20px;
+}
